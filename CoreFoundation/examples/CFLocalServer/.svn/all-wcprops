@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer
+END
+Client.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer/Client.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer/Makefile.in
+END
+Server.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer/Server.c
+END
+Protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer/Protocol.h
+END
+Common.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer/Common.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer/README
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFLocalServer/Common.h
+END

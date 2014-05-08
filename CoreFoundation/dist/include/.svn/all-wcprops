@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/107/trunk/CoreFoundation/dist/include
+END
+Availability.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/CoreFoundation/dist/include/Availability.h
+END
+TargetConditionals.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/CoreFoundation/dist/include/TargetConditionals.h
+END
+AvailabilityMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/CoreFoundation/dist/include/AvailabilityMacros.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/dist/include/stdint.h
+END
+stdbool.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/dist/include/stdbool.h
+END
+AssertMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/CoreFoundation/dist/include/AssertMacros.h
+END
+AvailabilityInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21/trunk/CoreFoundation/dist/include/AvailabilityInternal.h
+END
+ConditionalMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21/trunk/CoreFoundation/dist/include/ConditionalMacros.h
+END

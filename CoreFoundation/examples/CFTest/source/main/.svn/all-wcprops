@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/source/main
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/source/main/stdafx.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/source/main/main.cpp
+END
+CFTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/source/main/CFTest.cpp
+END
+CFTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/source/main/CFTest.h
+END

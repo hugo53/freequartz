@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/stat.h
+END
+timeb.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/timeb.inl
+END
+wstat.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/wstat.inl
+END
+utime.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/utime.inl
+END
+timeb.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/timeb.h
+END
+utime.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/utime.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/types.h
+END
+locking.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/locking.h
+END
+stat.inl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/sys/stat.inl
+END

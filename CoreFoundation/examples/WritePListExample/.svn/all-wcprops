@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/WritePListExample
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/WritePListExample/schema.xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/WritePListExample/Makefile.in
+END
+WritePListExample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/WritePListExample/WritePListExample.cpp
+END
+WritePListExample.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/WritePListExample/WritePListExample.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/WritePListExample/Makefile.am
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/ImageIO/include/ImageIO
+END
+CGImageProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/ImageIO/include/ImageIO/CGImageProperties.h
+END
+ImageIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/49/trunk/ImageIO/include/ImageIO/ImageIO.h
+END
+CGImageSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/49/trunk/ImageIO/include/ImageIO/CGImageSource.h
+END
+CGImageDestination.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/ImageIO/include/ImageIO/CGImageDestination.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/ReadPListExample
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/ReadPListExample/schema.xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/ReadPListExample/Makefile.in
+END
+ReadPListExample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/ReadPListExample/ReadPListExample.cpp
+END
+ReadPListExample.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/ReadPListExample/ReadPListExample.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/ReadPListExample/Makefile.am
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/include/mach_support
+END
+vproc_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/CoreFoundation/include/mach_support/vproc_priv.h
+END
+bootstrap_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21/trunk/CoreFoundation/include/mach_support/bootstrap_priv.h
+END

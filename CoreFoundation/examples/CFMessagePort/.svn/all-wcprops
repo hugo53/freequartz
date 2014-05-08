@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFMessagePort
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFMessagePort/client.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFMessagePort/Makefile.in
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFMessagePort/server.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFMessagePort/Makefile.am
+END

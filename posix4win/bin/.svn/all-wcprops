@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/106/trunk/posix4win/bin
+END
+libdl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/106/trunk/posix4win/bin/libdl.dll
+END
+libexpat-1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/106/trunk/posix4win/bin/libexpat-1.dll
+END
+intl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/106/trunk/posix4win/bin/intl.dll
+END
+freetype6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/106/trunk/posix4win/bin/freetype6.dll
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/106/trunk/posix4win/bin/zlib1.dll
+END
+libfontconfig-1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/106/trunk/posix4win/bin/libfontconfig-1.dll
+END
+libpng14-14.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/106/trunk/posix4win/bin/libpng14-14.dll
+END
+pthreadVC2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/106/trunk/posix4win/bin/pthreadVC2.dll
+END
+libcairo-2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/106/trunk/posix4win/bin/libcairo-2.dll
+END

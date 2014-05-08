@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/lib
+END
+WHAT_IS_THIS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/lib/WHAT_IS_THIS.txt
+END
+icuin.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/lib/icuin.lib
+END
+icudt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/lib/icudt.lib
+END
+icuuc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/lib/icuuc.lib
+END

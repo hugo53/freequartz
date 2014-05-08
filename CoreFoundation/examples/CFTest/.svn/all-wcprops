@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/Makefile.in
+END
+Chiquitita.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/Chiquitita.xml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/Makefile.am
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/test.xml
+END

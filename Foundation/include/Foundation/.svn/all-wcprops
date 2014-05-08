@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/63/trunk/Foundation/include/Foundation
+END
+NSObjcRuntime.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/63/trunk/Foundation/include/Foundation/NSObjcRuntime.h
+END
+FoundationErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/63/trunk/Foundation/include/Foundation/FoundationErrors.h
+END
+NSAutoreleasePool.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/63/trunk/Foundation/include/Foundation/NSAutoreleasePool.h
+END
+Foundation.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/63/trunk/Foundation/include/Foundation/Foundation.h
+END
+NSObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/63/trunk/Foundation/include/Foundation/NSObject.h
+END

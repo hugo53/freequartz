@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/105/trunk/posix4win/include/sys
+END
+ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/105/trunk/posix4win/include/sys/ioctl.h
+END
+utsname.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/105/trunk/posix4win/include/sys/utsname.h
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/105/trunk/posix4win/include/sys/features.h
+END
+timeb.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/105/trunk/posix4win/include/sys/timeb.h
+END
+utime.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/105/trunk/posix4win/include/sys/utime.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/105/trunk/posix4win/include/sys/types.h
+END
+cdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/105/trunk/posix4win/include/sys/cdefs.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/105/trunk/posix4win/include/sys/fcntl.h
+END
+__UNDECLARED_FOR_WIN32_stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/105/trunk/posix4win/include/sys/__UNDECLARED_FOR_WIN32_stat.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/105/trunk/posix4win/include/sys/mman.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/CoreFoundation/config
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/config/mkinstalldirs
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/config/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/config/compile
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/config/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/config/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/config/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/config/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/config/install-sh
+END

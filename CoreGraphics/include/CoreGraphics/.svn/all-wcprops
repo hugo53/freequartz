@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/126/trunk/CoreGraphics/include/CoreGraphics
+END
+CGPDFContentStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFContentStream.h
+END
+CGContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGContext.h
+END
+CGAffineTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGAffineTransform.h
+END
+CGPDFStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFStream.h
+END
+CGPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPath.h
+END
+CGGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGGradient.h
+END
+CoreGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CoreGraphics.h
+END
+CGFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGFont.h
+END
+CGPDFDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFDocument.h
+END
+CGColorTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/121/trunk/CoreGraphics/include/CoreGraphics/CGColorTransform.h
+END
+CGBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGBase.h
+END
+CGPDFContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFContext.h
+END
+CGBitmapContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGBitmapContext.h
+END
+CGImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGImage.h
+END
+CGPDFScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFScanner.h
+END
+CGDataProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGDataProvider.h
+END
+CGFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGFunction.h
+END
+CGDataConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGDataConsumer.h
+END
+CGError.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGError.h
+END
+CGColorSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/122/trunk/CoreGraphics/include/CoreGraphics/CGColorSpace.h
+END
+CoreGraphicsPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/126/trunk/CoreGraphics/include/CoreGraphics/CoreGraphicsPrivate.h
+END
+CGGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGGeometry.h
+END
+CGPDFOperatorTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFOperatorTable.h
+END
+CGPDFDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/98/trunk/CoreGraphics/include/CoreGraphics/CGPDFDictionary.h
+END
+CGDirectDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/120/trunk/CoreGraphics/include/CoreGraphics/CGDirectDisplay.h
+END
+CGPDFString.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFString.h
+END
+CGPDFObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFObject.h
+END
+CGPDFPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFPage.h
+END
+CGPDFArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPDFArray.h
+END
+CGLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGLayer.h
+END
+CGShading.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGShading.h
+END
+CGPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGPattern.h
+END
+CGColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/96/trunk/CoreGraphics/include/CoreGraphics/CGColor.h
+END

@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/127/trunk/CoreGraphics
+END
+CGRenderingStatePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/96/trunk/CoreGraphics/CGRenderingStatePriv.h
+END
+CGAffineTransform.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/96/trunk/CoreGraphics/CGAffineTransform.c
+END
+CGContext.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/113/trunk/CoreGraphics/CGContext.c
+END
+CGColorPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/96/trunk/CoreGraphics/CGColorPriv.h
+END
+CGContextDelegatePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/CoreGraphics/CGContextDelegatePriv.h
+END
+CGSoftMask.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/trunk/CoreGraphics/CGSoftMask.c
+END
+CGNotificationCenter.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/96/trunk/CoreGraphics/CGNotificationCenter.c
+END
+CGMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/96/trunk/CoreGraphics/CGMacros.h
+END
+CGContextPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/112/trunk/CoreGraphics/CGContextPriv.h
+END
+CGPath.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/118/trunk/CoreGraphics/CGPath.c
+END
+CGSoftMaskPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/96/trunk/CoreGraphics/CGSoftMaskPriv.h
+END
+CGNotificationCenterPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/96/trunk/CoreGraphics/CGNotificationCenterPriv.h
+END
+CGStyle.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/96/trunk/CoreGraphics/CGStyle.c
+END
+CGDisplayList.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/CoreGraphics/CGDisplayList.c
+END
+CGPathPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/trunk/CoreGraphics/CGPathPriv.h
+END
+CGTypesPriv.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/96/trunk/CoreGraphics/CGTypesPriv.c
+END
+CGStylePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/96/trunk/CoreGraphics/CGStylePriv.h
+END
+CGFont.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/96/trunk/CoreGraphics/CGFont.c
+END
+CGDisplayListPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/96/trunk/CoreGraphics/CGDisplayListPriv.h
+END
+CGDefaults.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/120/trunk/CoreGraphics/CGDefaults.c
+END
+CGColorTransform.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/126/trunk/CoreGraphics/CGColorTransform.c
+END
+CGTypesPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/96/trunk/CoreGraphics/CGTypesPriv.h
+END
+CGZone.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/127/trunk/CoreGraphics/CGZone.c
+END
+CGFontPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/trunk/CoreGraphics/CGFontPriv.h
+END
+CGDefaultsPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/120/trunk/CoreGraphics/CGDefaultsPriv.h
+END
+CGDash.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/96/trunk/CoreGraphics/CGDash.c
+END
+CGColorTransformPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/121/trunk/CoreGraphics/CGColorTransformPriv.h
+END
+CGBasePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/trunk/CoreGraphics/CGBasePriv.h
+END
+CGBitmapContext.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/121/trunk/CoreGraphics/CGBitmapContext.c
+END
+CGZonePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/127/trunk/CoreGraphics/CGZonePriv.h
+END
+CGBlt.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/96/trunk/CoreGraphics/CGBlt.c
+END
+CGImage.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/96/trunk/CoreGraphics/CGImage.c
+END
+CGDataProvider.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/119/trunk/CoreGraphics/CGDataProvider.c
+END
+CGDashPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/trunk/CoreGraphics/CGDashPriv.h
+END
+CGFunction.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/trunk/CoreGraphics/CGFunction.c
+END
+CGBitmapContextPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/121/trunk/CoreGraphics/CGBitmapContextPriv.h
+END
+CGGState.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/127/trunk/CoreGraphics/CGGState.c
+END
+CGBltPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/96/trunk/CoreGraphics/CGBltPriv.h
+END
+CGImagePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/96/trunk/CoreGraphics/CGImagePriv.h
+END
+CGError.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/96/trunk/CoreGraphics/CGError.c
+END
+CGColorSpace.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/122/trunk/CoreGraphics/CGColorSpace.c
+END
+CGDataProviderPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/118/trunk/CoreGraphics/CGDataProviderPriv.h
+END
+CGGeometry.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/trunk/CoreGraphics/CGGeometry.c
+END
+CGFunctionPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/96/trunk/CoreGraphics/CGFunctionPriv.h
+END
+CGGStatePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/127/trunk/CoreGraphics/CGGStatePriv.h
+END
+CGErrorPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/96/trunk/CoreGraphics/CGErrorPriv.h
+END
+CGDirectDisplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/124/trunk/CoreGraphics/CGDirectDisplay.c
+END
+CGColorSpacePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/122/trunk/CoreGraphics/CGColorSpacePriv.h
+END
+CGLibrary.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/114/trunk/CoreGraphics/CGLibrary.c
+END
+CGColorTransformBase.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/96/trunk/CoreGraphics/CGColorTransformBase.c
+END
+CGDirectDisplayPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/121/trunk/CoreGraphics/CGDirectDisplayPriv.h
+END
+CGLibraryPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/CoreGraphics/CGLibraryPriv.h
+END
+CGColorTransformBasePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/96/trunk/CoreGraphics/CGColorTransformBasePriv.h
+END
+CGLayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/96/trunk/CoreGraphics/CGLayer.c
+END
+CGRenderingState.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/96/trunk/CoreGraphics/CGRenderingState.c
+END
+CGColor.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/96/trunk/CoreGraphics/CGColor.c
+END
+CGContextDelegate.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/117/trunk/CoreGraphics/CGContextDelegate.c
+END
+CGLayerPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/96/trunk/CoreGraphics/CGLayerPriv.h
+END
+CGWindowContextPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/124/trunk/CoreGraphics/CGWindowContextPriv.h
+END

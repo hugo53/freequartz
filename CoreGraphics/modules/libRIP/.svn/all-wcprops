@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/127/trunk/CoreGraphics/modules/libRIP
+END
+RIP.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/127/trunk/CoreGraphics/modules/libRIP/RIP.h
+END
+RIPDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/123/trunk/CoreGraphics/modules/libRIP/RIPDevice.h
+END
+RIPContext.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/127/trunk/CoreGraphics/modules/libRIP/RIPContext.c
+END
+RIPContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/127/trunk/CoreGraphics/modules/libRIP/RIPContext.h
+END
+RIPZone.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/123/trunk/CoreGraphics/modules/libRIP/RIPZone.c
+END
+RIPLayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/123/trunk/CoreGraphics/modules/libRIP/RIPLayer.c
+END
+RIPDevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/123/trunk/CoreGraphics/modules/libRIP/RIPDevice.c
+END
+RIP.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/127/trunk/CoreGraphics/modules/libRIP/RIP.c
+END
+RIPBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/126/trunk/CoreGraphics/modules/libRIP/RIPBase.h
+END
+RIPZone.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/123/trunk/CoreGraphics/modules/libRIP/RIPZone.h
+END
+RIPLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/123/trunk/CoreGraphics/modules/libRIP/RIPLayer.h
+END

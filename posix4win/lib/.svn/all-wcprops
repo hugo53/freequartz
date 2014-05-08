@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/126/trunk/posix4win/lib
+END
+libdl.dll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/106/trunk/posix4win/lib/libdl.dll.lib
+END
+pthreadVC2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/106/trunk/posix4win/lib/pthreadVC2.lib
+END
+posix4win.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/126/trunk/posix4win/lib/posix4win.lib
+END

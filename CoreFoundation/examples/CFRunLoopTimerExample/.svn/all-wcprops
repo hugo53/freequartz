@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFRunLoopTimerExample
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFRunLoopTimerExample/Makefile.in
+END
+CFRunLoopTimerExample.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFRunLoopTimerExample/CFRunLoopTimerExample.c
+END
+CFRunLoopTimerExample.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFRunLoopTimerExample/CFRunLoopTimerExample.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFRunLoopTimerExample/Makefile.am
+END

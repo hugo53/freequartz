@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 103
+build/msvc/Debug
+build/msvc/Release
+build/msvc/ipch
+build/msvc/*.ncb
+build/msvc/*.sdf
+build/msvc/*.suo
+
+END

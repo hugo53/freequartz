@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/DisplayURL
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/DisplayURL/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/DisplayURL/Makefile.am
+END
+DisplayURL.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/DisplayURL/DisplayURL.c
+END
+DisplayURL.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/DisplayURL/DisplayURL.vcproj
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/DisplayURL/README.txt
+END

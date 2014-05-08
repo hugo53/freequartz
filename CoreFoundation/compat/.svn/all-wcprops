@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/CoreFoundation/compat
+END
+flsl.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/compat/flsl.c
+END
+strlcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/compat/strlcpy.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/compat/Makefile.in
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/compat/gettimeofday.c
+END
+dirent.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/compat/dirent.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/compat/Makefile.am
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/compat/dirent.h
+END
+strlcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/compat/strlcat.c
+END

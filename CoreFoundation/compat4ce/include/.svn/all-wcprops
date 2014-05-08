@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include
+END
+direct.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/direct.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/signal.h
+END
+process.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/process.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/errno.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/fcntl.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/compat4ce/include/io.h
+END

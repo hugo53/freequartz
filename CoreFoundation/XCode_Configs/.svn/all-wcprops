@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/XCode_Configs
+END
+Config_Master.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/XCode_Configs/Config_Master.xcconfig
+END
+ConfigRelease.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/XCode_Configs/ConfigRelease.xcconfig
+END
+ConfigDebug.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21/trunk/CoreFoundation/XCode_Configs/ConfigDebug.xcconfig
+END

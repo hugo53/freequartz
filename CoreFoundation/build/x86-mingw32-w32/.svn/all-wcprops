@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/build/x86-mingw32-w32
+END
+CoreFoundationLite.project
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/21/trunk/CoreFoundation/build/x86-mingw32-w32/CoreFoundationLite.project
+END
+CoreFoundationLite.mk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21/trunk/CoreFoundation/build/x86-mingw32-w32/CoreFoundationLite.mk
+END
+CoreFoundationLite.tags
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21/trunk/CoreFoundation/build/x86-mingw32-w32/CoreFoundationLite.tags
+END
+CoreFoundationLite.workspace
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/21/trunk/CoreFoundation/build/x86-mingw32-w32/CoreFoundationLite.workspace
+END
+CoreFoundationLite_wsp.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/21/trunk/CoreFoundation/build/x86-mingw32-w32/CoreFoundationLite_wsp.mk
+END
+CoreFoundationLite.workspace.session
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/21/trunk/CoreFoundation/build/x86-mingw32-w32/CoreFoundationLite.workspace.session
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/CoreFoundation/build/x86-mingw32-w32/tags
+END

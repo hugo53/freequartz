@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/win_vs
+END
+CFTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/win_vs/CFTest.sln
+END
+CFTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/CFTest/win_vs/CFTest.vcproj
+END

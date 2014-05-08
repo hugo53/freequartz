@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/SimpleWebServer
+END
+SimpleWebServer.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/SimpleWebServer/SimpleWebServer.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/SimpleWebServer/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/21/trunk/CoreFoundation/examples/SimpleWebServer/Makefile.am
+END

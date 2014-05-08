@@ -1,0 +1,129 @@
+10
+
+dir
+127
+http://freequartz.googlecode.com/svn/trunk/CoreFoundation/examples
+http://freequartz.googlecode.com/svn
+
+
+
+2010-04-09T10:53:21.056783Z
+19
+v.richomme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2d173a58-942e-4657-f77f-4b59ac81e5fd
+
+Allocator
+dir
+
+WritePListExample
+dir
+
+DNSServiceMetaQuery
+dir
+
+CFMessagePort
+dir
+
+StringExample
+dir
+
+Makefile.in
+file
+
+
+
+
+2014-05-08T10:33:29.000000Z
+1f3dc7db09a1bd34b4ebd06671435bf1
+2010-04-07T17:43:47.367356Z
+4
+v.richomme
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15249
+
+ReadPListExample
+dir
+
+CFRunLoopTimerExample
+dir
+
+DisplayURL
+dir
+
+CFTest
+dir
+
+Makefile.am
+file
+
+
+
+
+2014-05-08T10:33:29.000000Z
+bde1e44d4ef0ef881115264f97efd0fc
+2010-04-07T17:43:47.367356Z
+4
+v.richomme
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+250
+
+CFLocalServer
+dir
+
+SimpleWebServer
+dir
+
